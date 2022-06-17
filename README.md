@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Fullstack developer.
-Part of [bondsports](https://bondsports.co/) team as a Frontend Tech Lead.
-From time to time giving a consultant services as part of [Re:Invneted](https://www.re-invented.xyz/) team as a Tech Lead.
+I'm a Fullstack developer.</br>
+Part of [bondsports](https://bondsports.co/) team as a Frontend Tech Lead.</br>
+From time to time giving a consultant services as part of [Re:Invneted](https://www.re-invented.xyz/) team as a Tech Lead.</br>
 Building in public -> [Quack - tackle your bugs with full context](https://www.thequack.io/)
 
 #### My Stack
