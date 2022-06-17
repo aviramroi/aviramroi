@@ -1,20 +1,20 @@
 ### Hi there 👋
 
-TL;DR - I'm a full-stack problem solver focused on building a time machine.
-
-My superpower is building state-of-the-art experiences blazingly fast.
-I combine code, data, and ML in order to create the future I want to see.
-Constantly iterating to become the best version of myself.
-
-Work remotely from Los Angeles, occasionally in Tel Aviv.
+I'm a Fullstack developer.
+Part of [bondsports](https://bondsports.co/) team as a Frontend Tech Lead.
+From time to time giving a consultant services as part of [Re:Invneted](https://www.re-invented.xyz/) team as a Tech Lead.
+Building in public -> [Quack - tackle your bugs with full context](https://www.thequack.io/)
 
 #### My Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></code>
+
 
 <p align="center">
   <a href="https://medium.com/@aviramroi">Medium</a> •
