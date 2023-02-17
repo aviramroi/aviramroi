@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a Fullstack developer.</br>
-Part of [Bondsports](https://bondsports.co/) team as a Frontend Tech Lead.</br>
+I'm a Tech Entrepreneur and Co-Founder of [Quack](https://www.thequack.io/)</br>
+Previously Frontend Tech Lead at [Bondsports](https://bondsports.co/)</br>
+Tech Consultant at [Upword](https://upword.ai) </br>
 From time to time giving a consultant services as part of [Re:Invneted](https://www.re-invented.xyz/) team as a Tech Lead.</br>
-Building in public -> [Quack](https://www.thequack.io/) - tackle your bugs with full context
 
 #### My Stack
 
