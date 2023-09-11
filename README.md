@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm a Tech Entrepreneur and Co-Founder of [Quack](https://www.thequack.io/)</br>
-Previously Frontend Tech Lead at [Bondsports](https://bondsports.co/)</br>
+I'm a Tech Entrepreneur and Co-Founder & CTO @[Quack](https://www.thequack.io/)</br>
+Previously:
+Frontend Tech Lead at [Bondsports](https://bondsports.co/)</br>
 Tech Consultant at [Upword](https://upword.ai) </br>
 From time to time giving a consultant services as part of [Re:Invneted](https://www.re-invented.xyz/) team as a Tech Lead.</br>
 
